@@ -4,7 +4,7 @@ globals:
   Nominal:
     ticker: Amazon
     name: AML
-    details: Amazon okenized
+    details: Amazon tokenized
     precision: 8
   ContractText: >
     SUBJECT TO, AND WITHOUT IN ANY WAY LIMITING, THE REPRESENTATIONS AND WARRANTIES OF ANY SELLER 
