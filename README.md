@@ -21,7 +21,3 @@ Assets for Bitswap
 ### Real State
 
 - Home
-
-### Wrapped
-
-- Wrapped ETH: Vaults for ETH using RGB Protocol
