@@ -4,11 +4,6 @@ Assets for Bitswap
 
 ## Assets
 
-### Stablecoins
-
--  Wrapped USD: Vaults using USD dollar backed by 100% BTC without banks 
--  Wrapped EUR: Vaults using EURO backed by 100% BTC without banks
-
 ### Tokenized World
 
 #### Securities
