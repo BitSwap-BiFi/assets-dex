@@ -1,4 +1,4 @@
-# Assets DEX 💱
+# Assets DEX 💱⚡
 
 Assets for DEX by Bitswap team 
 
