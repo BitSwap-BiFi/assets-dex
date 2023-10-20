@@ -1,6 +1,6 @@
 # Assets DEX 💱
 
-Assets for Bitswap
+Assets for DEX by Bitswap team 
 
 ## Assets
 
@@ -16,3 +16,8 @@ Assets for Bitswap
 ### Real State
 
 - Home
+
+### Private Equity 
+
+TBD
+
